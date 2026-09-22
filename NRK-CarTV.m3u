@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="NRK Radio",NRK Nyheter
+https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter
